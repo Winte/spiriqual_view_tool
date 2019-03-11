@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install spiriqual_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+SpiriqualViewTool::Renderer.copyright 'Spiriqual', 'All rights reserved'
+```
 
 ## Development
 
